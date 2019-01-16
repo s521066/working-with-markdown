@@ -104,3 +104,4 @@ dcase@nwmissouri.edu
 1. Sell shares and create off-shore account in some unknown islands
 1. Find Lambo dealers
 1. Buy lamborghini
+1. Be happy

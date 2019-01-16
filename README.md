@@ -90,7 +90,7 @@ dcase@nwmissouri.edu
 
 ## Want some hot wheels?
 
-![Hosted image](https://commons.wikimedia.org/wiki/File:Lamborghini_Aventador.jpg "Aventador")
+![Hosted image](https://commons.wikimedia.org/wiki/File:Lamborghini_Aventador_Genf_2018.jpg)
 - [Lamborghini Aventador](https://en.wikipedia.org/wiki/Lamborghini_Aventador)
 - [To buy](https://www.lamborghini.com/en-en/brand/masterpieces/aventador-coupe)
 

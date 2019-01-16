@@ -90,7 +90,7 @@ dcase@nwmissouri.edu
 
 ## Want some hot wheels?
 
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/8/8b/Manchester_United_v_Manchester_City%2C_10_December_2017_%2810%29.jpg)
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/e/e7/Lamborghini_Aventador_Genf_2018.jpg "Lamborghini")
 - [Lamborghini Aventador](https://en.wikipedia.org/wiki/Lamborghini_Aventador)
 - [To buy](https://www.lamborghini.com/en-en/brand/masterpieces/aventador-coupe)
 

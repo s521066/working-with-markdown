@@ -88,6 +88,19 @@ Denise Case
 
 dcase@nwmissouri.edu
 
-## New Section
+## Want some hot wheels?
 
+![Hosted image](https://commons.wikimedia.org/wiki/File:Lamborghini_Aventador.jpg "Aventador")
+- [Lamborghini Aventador](https://en.wikipedia.org/wiki/Lamborghini_Aventador)
+- [To buy](https://www.lamborghini.com/en-en/brand/masterpieces/aventador-coupe)
 
+## How to buy lambos?
+
+1. Study
+1. Find job
+1. Succeedd in your job
+1. Commit to promotion (kill off your competitors)
+1. Buy shares (lots of them)
+1. Sell shares and create off-shore account in some unknown islands
+1. Find Lambo dealers
+1. Buy lamborghini
